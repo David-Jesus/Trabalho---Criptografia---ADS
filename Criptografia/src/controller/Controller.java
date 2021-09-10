@@ -5,6 +5,11 @@ import java.util.Scanner;
 
 import model.Criptografia;
 
+/**
+ * 
+ * @author David
+ *
+ */
 public class Controller {
 
 	@SuppressWarnings("unused")

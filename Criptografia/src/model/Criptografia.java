@@ -2,6 +2,11 @@ package model;
 
 import java.util.Random;
 
+/**
+ * 
+ * @author David
+ *
+ */
 public class Criptografia {
 
 	private String msgCripto = "";
