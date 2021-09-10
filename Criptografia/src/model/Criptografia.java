@@ -67,7 +67,7 @@ public class Criptografia {
 	}
 
 	/**
-	 * Responsável por gerar a chave para de descritografia, 
+	 * Responsável por gerar a chave para a descritografia, 
 	 * retorna um array contendo 5 posições preenchidas, a geração
 	 * se dá de forma aleatória.
 	 * @return
